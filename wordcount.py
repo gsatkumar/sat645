@@ -15,3 +15,4 @@ if __name__ == "__main__":
 	
 	# save the counts to output
 	wordCounts.saveAsTextFile("/home/gkumar/Downloads/wc_out")
+        # dummy msg
